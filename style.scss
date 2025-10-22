@@ -715,5 +715,18 @@ main {
                 
             }
         }
+
+        .fifth-card{
+            h2{
+                font-size: 3.5rem;
+               
+            }
+            .card{
+                width: 100%;
+                display: flex;
+                flex-direction: row;
+                gap: 2rem;
+            }
+        }
     }
 }
