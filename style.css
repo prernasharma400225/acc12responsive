@@ -672,7 +672,7 @@ main footer .right-box .bottom-rightbox .buttom-footer i {
   border-radius: 50px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   nav .top-right a {
     display: none;
   }
@@ -683,7 +683,7 @@ main footer .right-box .bottom-rightbox .buttom-footer i {
     display: block;
   }
 }
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
   main nav {
     justify-content: space-between;
   }
@@ -705,7 +705,7 @@ main footer .right-box .bottom-rightbox .buttom-footer i {
     justify-content: space-between;
   }
   main section .buttom .text1 .buttomtext h1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
   }
   main section .buttom .text1 .buttomtext p {
     font-size: 1.8rem;
@@ -728,19 +728,19 @@ main footer .right-box .bottom-rightbox .buttom-footer i {
     width: 50%;
   }
   main .view2 .buttom {
-    padding: 5.5rem;
+    padding: 4.5rem;
     justify-content: space-between;
   }
   main .view2 .buttom .text1 .buttomtext h1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
   }
   main .view2 .buttom .text1 .buttomtext .span-text {
     display: flex;
     flex-direction: row;
   }
   main .view2 .buttom .text1 .buttomtext .span-text span {
-    padding: 2rem;
-    font-size: 1.5rem;
+    padding: 0.6rem;
+    font-size: 1.2rem;
   }
   main .view3 {
     flex-direction: row;
@@ -750,19 +750,19 @@ main footer .right-box .bottom-rightbox .buttom-footer i {
     width: 50%;
   }
   main .view3 .buttom {
-    padding: 5.5rem;
+    padding: 4.5rem;
     justify-content: space-between;
   }
   main .view3 .buttom .text1 .buttomtext h1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
   }
   main .view3 .buttom .text1 .buttomtext .span-text {
     display: flex;
     flex-direction: row;
   }
   main .view3 .buttom .text1 .buttomtext .span-text span {
-    padding: 2rem;
-    font-size: 1.5rem;
+    padding: 0.6rem;
+    font-size: 1.2rem;
   }
   main .fifth-card h2 {
     font-size: 3.5rem;
@@ -782,7 +782,7 @@ main footer .right-box .bottom-rightbox .buttom-footer i {
   }
   main .view4 .top .buttomtext h1,
   main .view4 .buttom .buttomtext h1 {
-    font-size: 4.5rem;
+    font-size: 3rem;
   }
   main .view4 .buttom {
     padding: 5.5rem;

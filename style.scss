@@ -841,7 +841,7 @@ main {
 
 }
 
-@media(max-width: 600px) {
+@media(max-width: 1000px) {
     nav {
         .top-right {
 
@@ -863,7 +863,8 @@ main {
     }
 }
 
-@media (min-width: 900px) {
+
+@media (min-width: 1000px) {
     main {
 
         nav {
@@ -899,7 +900,7 @@ main {
                     .buttomtext {
 
                         h1 {
-                            font-size: 4.5rem;
+                            font-size: 3.5rem;
                         }
 
                         p {
@@ -946,7 +947,7 @@ main {
             }
 
             .buttom {
-                padding: 5.5rem;
+                padding: 4.5rem;
                 justify-content: space-between;
 
                 .text1 {
@@ -955,7 +956,7 @@ main {
                     .buttomtext {
 
                         h1 {
-                            font-size: 4.5rem;
+                            font-size: 3.5rem;
                         }
 
                         .span-text {
@@ -963,8 +964,8 @@ main {
                             flex-direction: row;
 
                             span {
-                                padding: 2rem;
-                                font-size: 1.5rem;
+                                padding: 0.6rem;
+                                font-size: 1.2rem;
                             }
                         }
                     }
@@ -985,7 +986,7 @@ main {
             }
 
             .buttom {
-                padding: 5.5rem;
+                padding: 4.5rem;
                 justify-content: space-between;
 
                 .text1 {
@@ -994,7 +995,7 @@ main {
                     .buttomtext {
 
                         h1 {
-                            font-size: 4.5rem;
+                            font-size: 3.5rem;
                         }
 
                         .span-text {
@@ -1002,8 +1003,8 @@ main {
                             flex-direction: row;
 
                             span {
-                                padding: 2rem;
-                                font-size: 1.5rem;
+                                padding: 0.6rem;
+                                font-size: 1.2rem;
                             }
                         }
                     }
@@ -1031,15 +1032,17 @@ main {
 
         .view4 {
             flex-direction: row;
+            
 
             .top,
             .buttom {
                 width: 50%;
+                
 
                 .buttomtext {
-
+                    // padding: 1.5rem;
                     h1 {
-                        font-size: 4.5rem;
+                        font-size: 3rem;
                     }
 
                 }
